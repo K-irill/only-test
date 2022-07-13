@@ -1,0 +1,24 @@
+body {
+  font-family: Roboto;
+  font-weight: 400;
+  margin: 0;
+  height: 100%;
+}
+
+h1 {
+  margin: 0;
+}
+
+.content {
+  max-width: 1681px;
+  margin: 0 auto;
+}
+
+.header {
+  margin-top: 100px;
+}
+.header__title {
+  font-style: normal;
+  font-size: 64px;
+  color: #012b34;
+}
